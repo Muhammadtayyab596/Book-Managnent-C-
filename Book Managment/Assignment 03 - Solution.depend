@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1597144846 source:c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\author.cpp
+	<iostream>
+	"Author.h"
+
+1597144821 c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\author.h
+	<string>
+	"Novel.h"
+	"Textbook.h"
+
+1597143313 source:c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\novel.cpp
+	<iostream>
+	"Novel.h"
+
+1597143255 c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\novel.h
+	<string>
+	"Book.h"
+
+1597143331 c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\book.h
+	<string>
+
+1597143303 source:c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\textbook.cpp
+	<iostream>
+	"Textbook.h"
+
+1597143271 c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\textbook.h
+	<string>
+	"Book.h"
+
+1597143223 source:c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\book.cpp
+	<iostream>
+	"Book.h"
+
+1597145644 source:c:\users\shaik\desktop\oop\source codes\assignment 03 - solution\main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+	"Novel.h"
+	"Textbook.h"
+
+1597119646 source:c:\users\muhammad muneeb\desktop\assignment 03 - solution\author.cpp
+	<iostream>
+	"Author.h"
+
+1597119620 c:\users\muhammad muneeb\desktop\assignment 03 - solution\author.h
+	<string>
+	"Novel.h"
+	"Textbook.h"
+
+1597118054 c:\users\muhammad muneeb\desktop\assignment 03 - solution\novel.h
+	<string>
+	"Book.h"
+
+1597118130 c:\users\muhammad muneeb\desktop\assignment 03 - solution\book.h
+	<string>
+
+1597118070 c:\users\muhammad muneeb\desktop\assignment 03 - solution\textbook.h
+	<string>
+	"Book.h"
+
+1597118022 source:c:\users\muhammad muneeb\desktop\assignment 03 - solution\book.cpp
+	<iostream>
+	"Book.h"
+
+1597120444 source:c:\users\muhammad muneeb\desktop\assignment 03 - solution\main.cpp
+	<iostream>
+	"Book.h"
+	"Author.h"
+	"Novel.h"
+	"Textbook.h"
+
+1597118112 source:c:\users\muhammad muneeb\desktop\assignment 03 - solution\novel.cpp
+	<iostream>
+	"Novel.h"
+
+1597118102 source:c:\users\muhammad muneeb\desktop\assignment 03 - solution\textbook.cpp
+	<iostream>
+	"Textbook.h"
+
